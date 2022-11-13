@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "type": "AC"
+  },
+  {
+    "id": 2,
+    "type": "Swimming Pool"
+  },
+  { "id": 3, "type": "Wifi/Internet" },
+  {
+    "id": 4,
+    "type": "Apartment"
+  },
+  {
+    "id": 5,
+    "type": "Villa"
+  },
+  {
+    "id": 6,
+    "type": "Room"
+  },
+  {
+    "id": 7,
+    "type": "1BHK"
+  },
+  {
+    "id": 8,
+    "type": "2BHK"
+  },
+  {
+    "id": 9,
+    "type": "3BHK"
+  },
+  {
+    "id": 10,
+    "type": "Spa"
+  },
+  {
+    "id": 11,
+    "type": "Resort"
+  },
+  {
+    "id": 12,
+    "type": "4BHK"
+  },
+  {
+    "id": 13,
+    "type": "Homestay"
+  },
+  {
+    "id": 14,
+    "type": "5BHK"
+  },
+  {
+    "id": 15,
+    "type": "Cottage"
+  }
+]
